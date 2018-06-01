@@ -1,0 +1,2 @@
+D:\Valtson\PatternIterator\PatternIterator\obj\Debug\PatternIterator.csprojAssemblyReference.cache
+D:\Valtson\PatternIterator\PatternIterator\obj\Debug\PatternIterator.csproj.CoreCompileInputs.cache
